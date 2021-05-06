@@ -10,6 +10,11 @@
 
 ## double haploidy
 [Haploid induction and its application in maize breeding](https://link.springer.com/article/10.1007/s11032-021-01204-5)
+
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11032-021-01204-5/MediaObjects/11032_2021_1204_Fig2_HTML.png?as=webp)
+
+
 [Doubled haploids in maize: Development, deployment, and challenges](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.20261)
 
 
