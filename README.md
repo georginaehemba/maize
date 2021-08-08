@@ -12,11 +12,42 @@ Plan for the review
 
 ### Introduction
 
-### Low nitrogen and drought stress effect on maize productivity in Africa
 
-### GWAS for low nitrogen and drought tolerant gene detection in maize
 
-### Functionnal validation of candidate genes relative to low and drought tpolerance in maize
+
+
+
+### Section 1: Low nitrogen and drought stress effects on maize productivity in Africa
+
+parlez des degats de ces deux facteurs sur la production du maize
+
+faire un graphe pour la production de maize sur 10 ans montrer la chute ...quantifier les degats lies au low N2 and DS  etc....
+
+
+
+
+
+
+### Section 2: GWAS for low nitrogen and drought tolerant gene detection in maize
+
+
+Parlez ici de tous les travaux qui ont ete faits sur le maize concernant le volet low nitrogen and drought stress dans le monde et en afrique
+
+Faire un tableau contenant les 
+- genes identifies, 
+- position sur le chromosome, 
+- methode de gwas utilisee
+- reference
+
+
+### Section 3: Functionnal validation of candidate genes relative to low and drought tpolerance in maize
+
+Parler ici de l'aspect validation  des genes detectes au niveau du GWAS
+
+
+> For well-studied traits, peaks detected by a new GWAS method can be compared with known associated genes or genomic regions for validation (Yang et al., 2018). New causal genes underlying GWAS peaks have been identified through transgenic and other approaches, including RNAi, mutant rescue, and CRISPR/Cas9-mediated gene silencing, knockout, and overexpression (Li et al., 2017; Si et al., 2016; Sun et al., 2018; Yano et al., 2016). In some exemplary cases, a single paper may perform both biological and statistical validation of GWAS methods (Liu et al., 2016; Miao et al., 2018; Wen et al., 2018). 
+
+
 
 ### Prospects
 
