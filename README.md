@@ -1,6 +1,35 @@
 # maize
 
 
+Discussion with Georgina Lala Ehemba this 08 August 2021
+
+
+Plan for the review
+
+
+## Title: Genome-wide association in maize for low nitrogen and drought stress in Africa: status and prospects
+
+
+### Introduction
+
+### Low nitrogen and drought stress effect on maize productivity in Africa
+
+### GWAS for low nitrogen and drought tolerant gene detection in maize
+
+### Functionnal validation of candidate genes relative to low and drought tpolerance in maize
+
+### Prospects
+
+### Conclusion
+
+
+
+
+
+
+
+
+
 ## combining ability
 - [Effect of nitrogen form on maize response to drought stress](https://link.springer.com/article/10.1007/BF00012875)
 - [Combining Ability and Heterosis of Algerian Saharan Maize Populations (Zea mays L.) for Tolerance to No-Nitrogen Fertilization and Drought](https://www.mdpi.com/2073-4395/11/3/492)
