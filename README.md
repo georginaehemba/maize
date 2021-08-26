@@ -23,6 +23,12 @@ parlez des degats de ces deux facteurs sur la production du maize
 
 faire un graphe pour la production de maize sur 10 ans montrer la chute ...quantifier les degats lies au low N2 and DS  etc....
 
+Maize is one of the staple food in SS.
+Maize productivity is Africa is affected by two major abiotic stresses such are drought and low nitrogen. Drought is recorded as the first abiotic stress limiting maize productivity in Africa. It is followed by low nitrogen that is the second most important tress affecting maize in Africa. Between 2019 and 2021, the average maize grain yield in SSA was estimated at… compared with … in Mexico and … in United States as a result of drought and low fertilizer utilization by farmers know as low nitrogen stress
+Drought and low nitrogen effect as a lot similar. When a plant is subject to these two stresses, its growth is reduced, the interval anthesis silking increases due to a delay silking, the kernel is reduced and in consequence the yield dropped. 
+
+Due to the climate change and the inability to access to affordable fertilizer, farmer's suffer the effects of drought and low nitrogen. 
+
 
 
 
@@ -38,6 +44,7 @@ Faire un tableau contenant les
 - position sur le chromosome, 
 - methode de gwas utilisee
 - reference
+[Process to identify marker](https://www.journalajbge.com/index.php/AJBGE/article/view/30095/56477)(https://onlinelibrary.wiley.com/doi/epdf/10.1111/pbi.13637)
 
 
 ### Section 3: Functionnal validation of candidate genes relative to low and drought tpolerance in maize
