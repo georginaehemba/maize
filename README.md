@@ -23,11 +23,11 @@ parlez des degats de ces deux facteurs sur la production du maize
 
 faire un graphe pour la production de maize sur 10 ans montrer la chute ...quantifier les degats lies au low N2 and DS  etc....
 
-Maize is one of the staple food in SS.
+Maize is one of the important and staple food in SS. 
 Maize productivity is Africa is affected by two major abiotic stresses such are drought and low nitrogen. Drought is recorded as the first abiotic stress limiting maize productivity in Africa. It is followed by low nitrogen that is the second most important tress affecting maize in Africa. Between 2019 and 2021, the average maize grain yield in SSA was estimated at… compared with … in Mexico and … in United States as a result of drought and low fertilizer utilization by farmers know as low nitrogen stress
-Drought and low nitrogen effect as a lot similar. When a plant is subject to these two stresses, its growth is reduced, the interval anthesis silking increases due to a delay silking, the kernel is reduced and in consequence the yield dropped. 
+Drought and low nitrogen effects as a lot similar. When a plant is subject to these two stresses, its growth is reduced, the interval anthesis silking increases due to a delay silking, the kernel is reduced and in consequence the yield dropped. 
 
-Due to the climate change and the inability to access to affordable fertilizer, farmer's suffer the effects of drought and low nitrogen. 
+Due to the climate change and the inability to access to affordable fertilizer, farmer's suffer the effects of drought and low nitrogen. studies have also shown that drought will be the most limitting maize production in the future
 
 
 
