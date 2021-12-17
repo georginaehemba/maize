@@ -1,6 +1,25 @@
 # maize
 
 
+# Discussion with Georgina this 18th of december 2021.
+
+Topic: Identify from litterature maize hybrid materials
+
+
+- Doc1 - 2011 - [Identification of early-maturing maize inbred lines based on multiple traits under drought and low N environments for hybrid development and population improvement](https://cdnsciencepub.com/doi/pdf/10.4141/cjps2010-021) 
+
+> Under drought stress, TZEI 17, TZEI 3, TZEI 23, and TZEI 13 were the closest to the ideal genotype, while TZEI 7, TZEI 2, and TZEI 11 were the closest under low-N conditions.
+
+
+- Doc2 - [Genetic Analysis of Early White Quality Protein Maize Inbreds and Derived Hybrids under Low-Nitrogen and Combined Drought and Heat Stress Environments](https://www.mdpi.com/2223-7747/10/12/2596/htm#app1-plants-10-02596)
+
+> the check TZEQI 39 × TZEQI 44 were the highest yielding under each stress environment and across environments. Hybrid TZEQI 210 × TZEQI 188 was the most stable across environments and should be tested on-farm and commercialized in SSA.
+
+
+
+
+
+
 Discussion with Georgina Lala Ehemba this 08 August 2021
 
 
