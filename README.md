@@ -26,6 +26,13 @@ Topic: Identify from litterature maize hybrid materials
 > Four hybrids (CRIZEQ-24 × CRIZEQ-77, CRIZEQ-44 × CRIZEQ-77, CRIZEQ-14 × CRIZEQ-49, and CRIZEQ-24 × CRIZEQ-40) were identified with outstanding GY performance under DS. Days to anthesis, ear aspect, number of ears per plant and plant aspect were important traits for selection under DS.
 
 
+- Doc5 - 2021 [Effects of drought stress on grain yield, agronomic performance, and heterosis of marker-based improved provitamin-A maize synthetics and their hybrids](https://www.tandfonline.com/doi/full/10.1080/15427528.2021.1949772?casa_token=uY3Yb-whD5kAAAAA%3A3QKcNpcRaSuHX6jOlFelrRLYXPY4RgG_0ENw_06IUBKWVVqAsJVtGBZzs3yw4w3U_aRqSwysqTcdgw)
+
+> The maize synthetics and their varietal-cross hybrids, along with a drought-tolerant check (PVASYN13), were evaluated under MDS and well-watered (WW) conditions at Ikenne, Nigeria, for two years. 
+
+> Three of the varietal-cross hybrids (PVASYNHGBC0/PVASYNHGAC0, PVASYNHGBC0/PVASYNHGAC1 and PVASYNHGBC1/PVASYNHGAC2) had significant mid-parent heterosis for grain yield under the two test conditions, and were recommended for developing drought-tolerant varieties to combat VAD in drought-prone environments of SSA.
+
+
 
 
 
