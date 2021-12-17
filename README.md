@@ -11,9 +11,19 @@ Topic: Identify from litterature maize hybrid materials
 > Under drought stress, TZEI 17, TZEI 3, TZEI 23, and TZEI 13 were the closest to the ideal genotype, while TZEI 7, TZEI 2, and TZEI 11 were the closest under low-N conditions.
 
 
-- Doc2 - [Genetic Analysis of Early White Quality Protein Maize Inbreds and Derived Hybrids under Low-Nitrogen and Combined Drought and Heat Stress Environments](https://www.mdpi.com/2223-7747/10/12/2596/htm#app1-plants-10-02596)
+- Doc2 - 2021 - [Genetic Analysis of Early White Quality Protein Maize Inbreds and Derived Hybrids under Low-Nitrogen and Combined Drought and Heat Stress Environments](https://www.mdpi.com/2223-7747/10/12/2596/htm#app1-plants-10-02596)
 
 > the check TZEQI 39 × TZEQI 44 were the highest yielding under each stress environment and across environments. Hybrid TZEQI 210 × TZEQI 188 was the most stable across environments and should be tested on-farm and commercialized in SSA.
+
+
+- Doc3 - 2021 - [Genetic Gains from Selection for Drought Tolerance during Three Breeding Periods in Extra-Early Maturing Maize Hybrids under Drought and Rainfed Environments](https://www.mdpi.com/2073-4395/11/5/831/htm)
+
+> Additionally, two of the top six period 3 hybrids (TZEEI 29 × TZEEI 13) × TZEEI 64 and TZdEEI 64 × TZEEI 54 were found to be the best yielding and most stable across the 14 test environments and were highly recommended for extensive evaluations to warrant their commercialization in sub-Saharan Africa (SSA)
+
+
+- Doc4 - 2021 - [Genetic analysis of grain yield and agronomic traits of quality protein maize inbred lines and their single-cross hybrids under drought stress and well-watered conditions](https://www.sciencedirect.com/science/article/pii/S2405985421000276?casa_token=s6OxOytV3IkAAAAA:Df-CQ6Xv2oCHH8S84XJ3x3F_ns_Bfu0yHuEdQF1IVYL-uJMr7qW1jrVJR9CkN_G9Ay8_A-Q6CQ)
+
+> Four hybrids (CRIZEQ-24 × CRIZEQ-77, CRIZEQ-44 × CRIZEQ-77, CRIZEQ-14 × CRIZEQ-49, and CRIZEQ-24 × CRIZEQ-40) were identified with outstanding GY performance under DS. Days to anthesis, ear aspect, number of ears per plant and plant aspect were important traits for selection under DS.
 
 
 
