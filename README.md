@@ -21,7 +21,7 @@ Topic: Identify from litterature maize hybrid materials
 > Additionally, two of the top six period 3 hybrids (TZEEI 29 × TZEEI 13) × TZEEI 64 and TZdEEI 64 × TZEEI 54 were found to be the best yielding and most stable across the 14 test environments and were highly recommended for extensive evaluations to warrant their commercialization in sub-Saharan Africa (SSA)
 
 
-- Doc4 - 2021 - [Genetic analysis of grain yield and agronomic traits of quality protein maize inbred lines and their single-cross hybrids under drought stress and well-watered conditions](https://www.sciencedirect.com/science/article/pii/S2405985421000276?casa_token=s6OxOytV3IkAAAAA:Df-CQ6Xv2oCHH8S84XJ3x3F_ns_Bfu0yHuEdQF1IVYL-uJMr7qW1jrVJR9CkN_G9Ay8_A-Q6CQ)
+- Doc4 - 2021 - [Genetic analysis of grain yield and agronomic traits of quality protein maize inbred lines and their single-cross hybrids under drought stress and well-watered conditions](https://www.sciencedirect.com/science/article/pii/S2405985421000276?casa_token=s6OxOytV3IkAAAAA:Df-CQ6Xv2oCHH8S84XJ3x3F_ns_Bfu0yHuEdQF1IVYL-uJMr7qW1jrVJR9CkN_G9Ay8_A-Q6CQ) 
 
 > Four hybrids (CRIZEQ-24 × CRIZEQ-77, CRIZEQ-44 × CRIZEQ-77, CRIZEQ-14 × CRIZEQ-49, and CRIZEQ-24 × CRIZEQ-40) were identified with outstanding GY performance under DS. Days to anthesis, ear aspect, number of ears per plant and plant aspect were important traits for selection under DS.
 
