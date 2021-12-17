@@ -1,7 +1,7 @@
 # maize
 
 
-# Discussion with Georgina this 18th of december 2021.
+## Discussion with Georgina this 18th of december 2021.
 
 Topic: Identify from litterature maize hybrid materials
 
@@ -37,7 +37,7 @@ Topic: Identify from litterature maize hybrid materials
 
 
 
-Discussion with Georgina Lala Ehemba this 08 August 2021
+## Discussion with Georgina Lala Ehemba this 08 August 2021
 
 
 Plan for the review
