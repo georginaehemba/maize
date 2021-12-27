@@ -1,5 +1,30 @@
 # maize
 
+## Discussion with Georgina this 27th of december 2021
+
+### Chapter 1: Leveraging eleven OPV maize populations for identification of tolerant materials to drought and low nitrogen stresses.
+
+Three locations, Two years, alpha lattice, 
+Objective : Find tolerant candidate
+
+## Chapter 2: Heterotic grouping analysis from eleven maize population under drought and low nitrogen 
+
+Objective classification into heterotic group because crossing two women cannot give a baby
+
+## Chapter 3: Evaluation of white and yellow double haploid hybrids under drought and low nitrogen
+
+Objective produce maize hydrib tolerant to drought and low nitrogen using DH technics
+
+From this chapter possible to get two chapters. The second one will addresss early maturing maize identification
+
+## Chapter4 : Early maturing stuff
+
+## Chapter5: Genetic diversity among dh indred lines
+
+## Chapter 6: GWAS for identification of genomic regions responsible of drought and low nitrogen 
+
+
+
 
 ## Discussion with Georgina this 18th of december 2021.
 
