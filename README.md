@@ -10,8 +10,14 @@ Objective : Find tolerant candidate
 ## Chapter 2: Heterotic grouping analysis from eleven maize population under drought and low nitrogen 
 
 Objective classification into heterotic group because crossing two women cannot give a baby
-
+Gene Action, Heterotic Patterns, and Inter-Trait Relationships of Early Maturing Pro-Vitamin A Maize Inbred Lines and Performance of Testcrosses under Contrasting Environments
+https://www.mdpi.com/2073-4395/11/12/2541  
+https://doi.org/10.3390/agronomy11122541
+Chercher comment faire GCA and SCA interaction environement dans SAS. Formule de non additive gene aussi.
 ## Chapter 3: Evaluation of white and yellow double haploid hybrids under drought and low nitrogen
+Combining ability and heterotic grouping of turcicum-resistant early-maturing maize inbreds
+https://doi.org/10.1002/agj2.20746
+https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/agj2.20746
 
 Objective produce maize hydrib tolerant to drought and low nitrogen using DH technics
 
