@@ -14,6 +14,7 @@ Gene Action, Heterotic Patterns, and Inter-Trait Relationships of Early Maturing
 https://www.mdpi.com/2073-4395/11/12/2541  
 https://doi.org/10.3390/agronomy11122541
 Chercher comment faire GCA and SCA interaction environement dans SAS. Formule de non additive gene aussi.
+
 ## Chapter 3: Evaluation of white and yellow double haploid hybrids under drought and low nitrogen
 Combining ability and heterotic grouping of turcicum-resistant early-maturing maize inbreds
 https://doi.org/10.1002/agj2.20746
@@ -25,12 +26,18 @@ From this chapter possible to get two chapters. The second one will addresss ear
 
 ## Chapter4 : Early maturing stuff
 
-## Chapter5: Genetic diversity among dh indred lines
+Testcross performance and combining ability of early maturing maize inbreds under multiple-stress environments. Sci Rep 9, 13809 (2019). 
+https://doi.org/10.1038/s41598-019-50345-3
+https://rdcu.be/cD09s
 
+## Chapter5: Genetic diversity among dh indred lines
+Genetic Diversity and Population Structure of Maize Inbred Lines with Varying Levels of Resistance to Striga hermonthica Using Agronomic Trait-Based and SNP Markers
+https://dx.doi.org/10.3390%2Fplants9091223
 ## Chapter 6: GWAS for identification of genomic regions responsible of drought and low nitrogen 
 
-
-
+Genome-wide association study to identify genomic regions influencing spontaneous fertility in maize haploids. Euphytica 215, 138 (2019). 
+https://doi.org/10.1007/s10681-019-2459-5
+https://rdcu.be/cD1bS
 
 ## Discussion with Georgina this 18th of december 2021.
 
