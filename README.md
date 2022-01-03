@@ -159,7 +159,7 @@ Parler ici de l'aspect validation  des genes detectes au niveau du GWAS
 [Doubled haploids in maize: Development, deployment, and challenges](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.20261)
 
 
-## GWAS 
+## GWAS :
 
 01. [Genome-wide association mapping in maize: status and prospects](https://link.springer.com/article/10.1007/s13205-021-02799-4)
 
