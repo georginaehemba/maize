@@ -27,9 +27,9 @@ From this chapter possible to get two chapters. The second one will addresss ear
 ## Material and method
 Site
 Material and method
-Site
+## Site
 The studies were done in three different locations such are Kumasi, niampala, and Bambeye
-Experimental design
+## Experimental design
 A total of sixty height (68) hybrids developed from a crossing between 99 DH inbred lines and two testers were evaluated along with 4 stress tolerant checks Using a 9*8 incomplete alpha lattice design in two replications under drought stress and optimum. 
 ## Data collection
 Drought and low nitrogen phenotyping facilities established by CIMMYT was followed to collect the data. 
