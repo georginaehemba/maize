@@ -24,6 +24,67 @@ Objective produce maize hydrib tolerant to drought and low nitrogen using DH tec
 
 From this chapter possible to get two chapters. The second one will addresss early maturing maize identification
 
+## Material and method
+Site
+Material and method
+Site
+The studies were done in three different locations such are Kumasi, niampala, and Bambeye
+Experimental design
+A total of sixty height (68) hybrids developed from a crossing between 99 DH inbred lines and two testers were evaluated along with 4 stress tolerant checks Using a 9*8 incomplete alpha lattice design in two replications under drought stress and optimum. 
+## Data collection
+Drought and low nitrogen phenotyping facilities established by CIMMYT was followed to collect the data. 
+Each genotype was planted in a single row of 5m with a spacing of 0.75m between rows and 0.25m within rows to get a density of 53.330 plants.
+	days to 50% anthesis (DA) and day to 50% silking (DS) :
+The day to 50% anthesis and silking was done by monitoring per day from the emergence of the first tassel in the field until all the genotypes in the trial have finished anthesis and silking. The DA was recorded when at least 50% of the plant have the male flowers (anthesis) and 50% of the plant have develop female flowers (silking). The genotypes that were selected were those that do not have significant changes in both anthesis and silking under drought compared to normal condition.
+## Anthesis-silking interval (ASI) 
+ASI is the difference between the number of days to anthesis and the number of days to silking. It is the synchrony between male and female flowering. It was calculated as the difference between anthesis date (AD) and silking date (SD): ASI = SD – AD.
+## Plant and ear height :
+They were recorded after anthesis and before harvesting. For the height, five plants were selected randomly and were measured from the soil surface to the base of the tassel. The ear heights of these selected plants were recorded by measuring the base of the plants to the upper nod of the ear. The genotypes selected were those with no many differences in plant and ear height in drought and normal conditions. 
+## Leave per plant and leaf area ( LA)
+The leave per plant were  taken by counting the number of leave per plant. Five plants will be selected randomly for the measurement. The leaf area of each plant was recorded by using the formula of Mokhtarpour et al. (2010):  
+LA= length of the leave × width of the leave × 0.75 (shape factor)
+## ear per plant (EPP) : 
+the ears represent the key trait because it determines the yield under both drought and normal condition. Ears per plant were determined just after harvest. The total number of ears harvested was counted in each plot. Any ear having at least one grain will be considered. After the collection of the ears, the number of plants per plot was calculated using the formula:
+## EPP=(number ears per plot)/(total number of plants per plot)
+The determination of this EPP is to evaluate the stress-induced barrenness in plant.
+Barrenness = 1-EPP.
+## ear aspect :
+it will be scored by a scale of 1 to 5. The rate one means that the ear is well filled, clean, large and uniform. The rate 5 will be given to the ears that are Rotten, variable, partially filled and small. 
+## ear weight per plot (kg)
+it is recorded in term of ear weight per plot just after harvest. The ear weight per plot will be measure by using a balance.
+	root and stem lodging :
+the root and the stem lodging were recorded between the physiological maturity and the harvest time. It was done by counting the number of plants. Genotypes without plant lodging under drought stress were selected.
+## leaf senescence: 
+the leave senescence shows the avoidance or the tolerance of the plant to drought stress It was collected two weeks after flowering on a weekly basis. A scale from 0 to 10 was used to rate the leave senescence. The percentage of the total leave area that is dead was divided by 10. When there is no dead leaf the rate is 0; the score 1 means 10% of the leaf area is dead, 2=20% dead leaf area; 3=30%; 4=40% dead leaf area 5=50% dead leaf area; 6= 60% dead leaf area; 7=70% dead leaf area; 8=80% dead leaf area; 9= 90% dead leaf area; 10= all leaf area is dead. After dead leaf scoring the genotypes with delayed senescence was selected.
+## Number of plants : 
+The number of plant is important for yield and also the calculation of plant lodging and ear per plant. It was recorded between the physiological maturity and harvest by counting the total number of plants in a plot including both lodged and un-lodged plants. 
+## Grain moisture content :
+In most of the time grain moisture is high at the time of harvest. Grain moisture content is recorded to calculate final grain yield having a uniform grain moisture content. Just after harvesting and calculation of grain yield base on ear weight per plot, moisture content was recorded. Kernels from different ears in a plot were bulk per sample. A grain moisture meter was used to record moisture content for each plot.
+## Grain yield :
+The grain yield is calculated by be given by measuring the grain weight per plot using a suitable digital balance. 
+ Secondary traits were also collected
+## the day to seedling emergence, 
+it was taken from the third day after planting date until 50% of all seedlings emerge above the surface of the soil. The number of the visible coleoptiles above the soil surface was counted and the total number of days was calculated until it reaches 50% of emergence. The genotypes with faster seedling emergence were selected.
+## the seedling vigour:
+This trait shows the performance the genotype drought stress. It was collected two and three weeks after seedling emergence. It was collected using a scale of 1-5. When it is low, it receives the rate one. High seedling vigor will receive the rate 5.
+## the number of grains per ear,
+it is important to measure it because all the cobs may not be fulfilling because of kernel abortion due to the stress at the flowering stage. Five ears were selected from each plot for this measure after harvest. The total number of grain on each ear from each plot was counted and the average number of grains per ear will be divide five.
+## the physiological maturity,
+It was taken 3 to 6 weeks after anthesis in all the plots when the husk cover leave on the ear dried. 
+## the weight of 100 grains 
+It was recorded after harvest by shelling an equal number of grains from some ears to get 100 grains sample per plot and measure it using an adequate balance.
+## The stress susceptibility index (SSI)
+The stress susceptibility index (SSI) according to Fischer & Maurer, (1978) was also determined by using the following the formula: SSI = [1-Yp/Ys]/SI
+SI= stress intensity. SI = [1- /MYs/MYp].
+The mean productivity (MP) and tolerance index (TOL) were calculated by using Rosielle & Hamblin, 1981 formula.
+PM= (Ys+Yw)/2.
+TOL =Yw-Ys
+## The stress tolerance index (STI)
+The stress tolerance index (STI) was done according to Fernandez, 1992.
+STI=((Ys*Yw))/(Y ̅w)
+
+
+
 ## Chapter4 : Early maturing stuff
 
 Testcross performance and combining ability of early maturing maize inbreds under multiple-stress environments. Sci Rep 9, 13809 (2019). 
