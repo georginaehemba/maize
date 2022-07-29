@@ -1,5 +1,8 @@
 # maize
-
+29/07/2022
+Citer les autheurs qui ont developpes les lignees tolerantes au Drought and low N
+Paler du genome de refference et avoir le genome de refference. Population genomique. genetique diversity
+avant d'elaborer la partie genetique diversity.
 ## Discussion with Georgina this 27th of december 2021
 
 ### Chapter 1: Leveraging eleven OPV maize populations for identification of tolerant materials to drought and low nitrogen stresses.
